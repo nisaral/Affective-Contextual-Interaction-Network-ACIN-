@@ -2,21 +2,21 @@
 A modular, multimodal framework for analyzing emotions, sentiment, and intent in conversations. ACAF integrates text (XLM-RoBERTa), audio (custom CNNs, Wav2Vec 2.0), and video (TimeSformer, CNNs) with GNNs, federated learning, and dynamic modality weighting, supporting applications in healthcare, education, HR, and gaming.
 Features
 
--Modular Architecture: Pluggable modules for preprocessing, modeling, fusion, and visualization.
--Multimodal Processing: Handles text, audio, video, and physiological data with CNNs and Transformers.
--Dynamic Weighting: Learns modality importance via gating mechanisms.
--Federated Learning: Privacy-preserving training with Flower.
+- Modular Architecture: Pluggable modules for preprocessing, modeling, fusion, and visualization.
+- Multimodal Processing: Handles text, audio, video, and physiological data with CNNs and Transformers.
+- Dynamic Weighting: Learns modality importance via gating mechanisms.
+- Federated Learning: Privacy-preserving training with Flower.
 - Explainability: SHAP and Grad-CAM for interpretable predictions.
--Edge Deployment: Optimized with TensorFlow Lite and ONNX Runtime.
--Interactive Dashboard: Streamlit with Plotly for real-time insights.
+- Edge Deployment: Optimized with TensorFlow Lite and ONNX Runtime.
+- Interactive Dashboard: Streamlit with Plotly for real-time insights.
 
 ## Use Cases
 
--Healthcare: Monitor patient emotions in telemedicine sessions.
--Education: Assess student engagement in virtual classrooms.
--HR Analytics: Evaluate candidate emotions during interviews.
--Gaming: Adapt narratives based on player emotional states.
--Legal: Detect emotional cues in courtroom dialogues.
+- Healthcare: Monitor patient emotions in telemedicine sessions.
+- Education: Assess student engagement in virtual classrooms.
+- HR Analytics: Evaluate candidate emotions during interviews.
+- Gaming: Adapt narratives based on player emotional states.
+- Legal: Detect emotional cues in courtroom dialogues.
 
 ## Installation
 
