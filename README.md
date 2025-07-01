@@ -20,7 +20,7 @@ Features
 
 ## Installation
 
-Clone the repository:git clone https://github.com/your_username/acaf.git
+Clone the repository:git clone https://github.com/nisaral/acaf.git
 cd acaf
 
 
