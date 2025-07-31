@@ -1,0 +1,72 @@
+Utterance,Emotion,Utterance_ID
+I'm furious that my job is being taken away.,anger,0
+I'm raging about the injustice I suffered.,anger,1
+I'm incensed by the disrespect I've received.,anger,2
+"My patience is wearing thin, I'm enraged.",anger,3
+"I'm boiling over, I can't take it anymore.",anger,4
+"I'm spitting mad, I'm so angry.",anger,5
+"I'm simmering with rage, I can't think straight.",anger,6
+"I'm incandescent with anger, I can't calm down.",anger,7
+I'm furious that someone stole my thunder.,anger,8
+"I'm incandescent with anger, I'm ready to explode.",anger,9
+I find the smell of fermented fish deeply unpleasant.,disgust,10
+I can't stand the thought of consuming mushrooms that have been lying on the ground.,disgust,11
+I'm disgusted by the sight of the restaurant's discarded food waste.,disgust,12
+I'm appalled by the lack of hygiene displayed at the hair salon.,disgust,13
+The pungent scent of garbage sent shivers down my spine.,disgust,14
+I find the taste of that dish to be quite repulsive.,disgust,15
+I can't believe I had to eat food that was clearly spoiled.,disgust,16
+I'm disgusted by the careless way the children were handling the contaminated toys.,disgust,17
+The smell of gasoline fills me with a strong sense of nausea.,disgust,18
+I find the sight of a dead animal on the street to be deeply disturbing.,disgust,19
+"Sure, here are 10 distinct, short, realistic conversational sentences expressing fear:",fear,20
+I felt a shiver run down my spine when the news broke.,fear,21
+My heart raced as the plane soared through the clouds.,fear,22
+My stomach dropped in my chest as the dark clouds rolled in.,fear,23
+My breath caught in my throat as I stood beneath the towering tree.,fear,24
+My palms started sweating uncontrollably.,fear,25
+The atmosphere was thick with a sense of dread.,fear,26
+My eyes widened in fear as the shadows loomed in the corners.,fear,27
+The sound of the approaching car sent chills down my spine.,fear,28
+I felt an unsettling stillness creep into the room.,fear,29
+The news report sent shivers down my spine as I listened to the horrifying sound.,fear,30
+The sunshine peeking through the window brought me such joy.,joy,31
+I couldn't resist smiling when I heard the happy news on the radio.,joy,32
+My heart fluttered with delight as I watched the colorful flowers bloom.,joy,33
+"A warm breeze whispered through my hair, bringing a smile to my face.",joy,34
+The laughter and cheers of the crowd filled me with pure joy.,joy,35
+"A cup of steaming coffee sat in front of me, a source of pure joy.",joy,36
+The little gift the child had given was a precious reminder of joy.,joy,37
+I couldn't resist laughing out loud at the silly joke my friend told.,joy,38
+"The sunset painted the sky in vibrant colors, bringing me immense joy.",joy,39
+The feeling of accomplishment and happiness washed over me like a wave.,joy,40
+I'm neutral on the issue.,neutral,41
+I'm not interested in getting involved.,neutral,42
+I'm not sure what to think about that.,neutral,43
+I'm not feeling particularly emotional about it.,neutral,44
+I'm not particularly excited about that.,neutral,45
+I'm neutral about the outcome.,neutral,46
+I'm not sure what I want in this situation.,neutral,47
+I'm indifferent to the situation.,neutral,48
+I'm not particularly invested in this.,neutral,49
+I'm not particularly bothered by that.,neutral,50
+I felt a pang of sadness when I realized I had lost my keys.,sadness,51
+My heart sank as the news of my job lay in my lap.,sadness,52
+A tear escaped my eye as I watched the rain pour down.,sadness,53
+The weight of the world seemed to lift a little as I reflected on my past accomplishments.,sadness,54
+I felt a tinge of sadness as I listened to the sad music play.,sadness,55
+My spirit was clouded with sadness as I looked through old photos.,sadness,56
+A melancholic sigh escaped my lips as I stared out the window.,sadness,57
+My heart ached with the weight of unfulfilled dreams.,sadness,58
+The sadness washed over me like a warm wave.,sadness,59
+A heavy sigh hung in the air as I realized the emptiness of my existence.,sadness,60
+"Surprise, the package arrived earlier than expected!",surprise,61
+"Surprise! My phone just rang, and I wasn't expecting it.",surprise,62
+Surprise! The flowers were delivered just in time for the party.,surprise,63
+Surprise! I just received an email from an old friend I haven't seen in ten years.,surprise,64
+Surprise! I stumbled upon an interesting article while browsing online.,surprise,65
+Surprise! My car broke down right in the middle of the highway.,surprise,66
+Surprise! I got a standing ovation for my performance at the talent show.,surprise,67
+"Surprise! The cake was brought out for a birthday party, but I wasn't expecting it.",surprise,68
+Surprise! I just heard the funniest joke and had to laugh.,surprise,69
+Surprise! The answer to the riddle was right in front of my eyes the whole time.,surprise,70
